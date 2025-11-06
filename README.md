@@ -5,7 +5,7 @@ Please only run it in the folder of the broken mod not the generall mod folder b
 How to use it:
 
 Place it into the folder of the mod you want fixed and run it
-It will ask you if you want the extra parts renamed ps-t0 =... to ps_t1 =... but it should only be needed for Skirk
+It will ask you if you want the extra parts renamed ps-t0 =... to ps_t1 =... but it should not be needed.
 Then it will ask if it should also search in sub folders if you use it on a normal merged mod press y or n depending on your usecase
 It will now show/ask you if you want to exclude parts from changing press n if you don't want to exclude then and change them or y if the part isn't green or weird 
 Do this for every part asked and you will get to Proceed with these changes? (y/n): press y to start or n to abort it. 
