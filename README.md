@@ -6,7 +6,7 @@ How to use it:
 
 Place the tool into the folder of the mod you want fixed and run it.
 
-Renamed ps-t0 =... to ps_t1 =...  press y only if everything else doesn't work.
+Renamed "ps-t0 =...  extra..." to "ps_t1 =...extra..." press y only if everything else doesn't work.
 
 Subfoldersearch yes / no depending where you put it.  e.g. 
 
